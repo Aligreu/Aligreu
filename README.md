@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Aligreu
-- 👀 I’m interested in ...python, Java script 
+- 👋 Hi, I’m Aly Greu
+- 👀 I’m interested in ...Web Development Backend Using python Django Framework, Frontend Development using html, css, JavaScript 
 - 🌱 I’m currently learning .MySql..
 - 💞️ I’m looking to collaborate on ..any position related to python .
 - 📫 How to reach me ...@agreu77@yahoo.com
