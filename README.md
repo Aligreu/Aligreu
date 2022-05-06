@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ali Greu
 - 👀 I’m currently learn new topics related to Data to improve my skills 
-- 🌱 I’m currently working in new projects
 - 💞️ I’m looking to collaborate on ..any position related to Data Analysis, Data Science
 - 📫 How to reach me ...@agreu77@yahoo.com
 
